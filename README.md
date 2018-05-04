@@ -14,5 +14,8 @@ Il talk dovrà durare 7 minuti. Lo sappiamo, non è facile ma tu ce la puoi fare
 ## Di cosa posso parlare?
 L'ecosistema Javascript è piuttosto vasto, non farai fatica a trovare un argomento. Stupiscici!
 
+## Talk proposti
+Puoi trovare [qui](https://good-party.now.sh/) la lista completa dei talk proposti
+
 ---
 :no_entry_sign: **Ti preghiamo di NON fare annunci di lavoro durante il talk.** :no_entry_sign:
